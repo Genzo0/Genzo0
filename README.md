@@ -2,7 +2,7 @@
 
 I have experience developing websites and web applications using modern javascript frameworks like React and Vue. My passion for web development is fueled by a desire to create user-friendly, intuitive websites that provide value to users. I am eager to continue learning and growing in this field and am excited to bring my skills and enthusiasm to a web development team.
 
-- 🔭 I’m currently working on SOCA AI as a Web Developer Intern
+<!--- 🔭 I’m currently working on SOCA AI as a Web Developer Intern
 <!--🌱 I’m currently learning Machine Learning on Bangkit Academy 2023 -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
